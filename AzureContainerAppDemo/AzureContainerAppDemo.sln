@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureContainerAppDemo", "AzureContainerAppDemo.csproj", "{ADC764B6-F09F-40EC-A02B-6E1A317B98D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWebApplication", "..\ContainerWebApplication\ContainerWebApplication.csproj", "{BD8C9E1B-ABB2-46B9-823B-210BE4925805}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ADC764B6-F09F-40EC-A02B-6E1A317B98D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADC764B6-F09F-40EC-A02B-6E1A317B98D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADC764B6-F09F-40EC-A02B-6E1A317B98D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADC764B6-F09F-40EC-A02B-6E1A317B98D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8C9E1B-ABB2-46B9-823B-210BE4925805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8C9E1B-ABB2-46B9-823B-210BE4925805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8C9E1B-ABB2-46B9-823B-210BE4925805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8C9E1B-ABB2-46B9-823B-210BE4925805}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
